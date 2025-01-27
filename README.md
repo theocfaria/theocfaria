@@ -13,7 +13,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Documentação? O código é autoexplicativo... eu acho.</h2></summary>
-    <h4 style="display: inline-block;margin-top: -10px;">(brincadeira)</h4>
+    <h4 style="display: inline-block;margin-top: -20px;">(brincadeira)</h4>
   </ul>
 </div>
 
