@@ -19,7 +19,7 @@
 <!--Intro start-->
 - 🔭 Atualmente estou trabalhando em **projetos menores, para expandir horizontes**
 
-- 🌱 Estou aprendendo agora **Python, Django e C++**
+- 🌱 Estou aprendendo agora **C++, HTML, CSS e Javascript**
 
 - 📫 Fique à vontade para me contatar em **theocfaria@gmail.com**
 
