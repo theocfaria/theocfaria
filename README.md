@@ -3,39 +3,39 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">olá 👋, me chamo Theo</h1></summary>
+    <summary><h1 style="display: inline-block">hi 👋, i'm theo</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Documentação? O código é autoexplicativo... eu acho</h2></summary>
+    <summary><h2 style="display: inline-block">not always does the sharpest tool do the better job</h2></summary>
     
 
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 Atualmente estou trabalhando em **projetos menores, para expandir horizontes**
+- 🔭 currently interested in **machine learning** and **artificial intelligente** 
 
-- 🌱 Estou aprendendo agora **C++, HTML, CSS e Javascript**
+- 🌱 currently learning **java** and **spring boot**, as well as **pytorch** and **sk-learn**
 
-- 📫 Fique à vontade para me contatar em **theocfaria@gmail.com**
+- 📫 feel free to hit me at **theocfaria@gmail.com**
 
-- 🏠 Ou então no discord: –  [theo](https://discordapp.com/users/397109855380307977) é meu perfil!
+- 🏠 or on discord: –  [theo](https://discordapp.com/users/397109855380307977) is my profile
 <!--Intro end-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Algumas tecnologias que eu conheço</h2></summary>
+    <summary><h2 style="display: inline-block">some technologies i'm familiar with</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,py,vscode,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,html,css,tailwind,js,php,laravel,mysql,py,pytorch,sk-learn,vscode,figma,java,spring&perline=8" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conecte-se comigo!</h2></summary>
+    <summary><h2 style="display: inline-block">socials</h2></summary>
   </ul>
 </div>
 
