@@ -21,7 +21,7 @@
 
 - 🌱 currently learning **java** and **spring boot**, as well as **pytorch** and **sk-learn**
 
-- 📫 feel free to hit me at **theocfaria@gmail.com**
+- 📫 feel free to reach out at **theocfaria@gmail.com**
 
 - 🏠 or on discord: –  [theo](https://discordapp.com/users/397109855380307977) is my profile
 <!--Intro end-->
