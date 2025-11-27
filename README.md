@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 currently interested in **machine learning** and **artificial intelligente** 
+- 🔭 currently interested in **machine learning** and **artificial intelligence** 
 
 - 🌱 currently learning **java** and **spring boot**, as well as **pytorch** and **sk-learn**
 
